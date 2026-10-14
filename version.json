@@ -1,1 +1,1 @@
-{"versionCode":20261062,"versionName":"3.2","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.2.apk","notes":"Shaheen Files v3.2 — دعم HTTP Keep-Alive: السيرفر بيخدم عدة طلبات على نفس الاتصال (إصلاح جذري لفشل تشغيل الفيديوهات)"}
+{"versionCode":20261063,"versionName":"3.3","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.3.apk","notes":"Shaheen Files v3.3 — إصلاح كشف إجهاض المشغل (PushbackInputStream) + Connection: close نظيف"}
