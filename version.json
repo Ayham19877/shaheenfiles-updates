@@ -1,1 +1,1 @@
-{"versionCode":20261064,"versionName":"3.4","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.4.apk","notes":"Shaheen Files v3.4 — بث تدريجي للفيديو (أول 2MB فقط للطلب الأول بدل الملف كاملاً) + إصلاح كبسة التخزين الداخلي"}
+{"versionCode":20261065,"versionName":"3.5","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.5.apk","notes":"Shaheen Files v3.5 — إصلاح جذري للبث: الطلب الأول من المشغل يُرد عليه بأول 64KB فقط (بدل الملف كاملاً الذي كان يعلق السيرفر)"}
