@@ -1,1 +1,1 @@
-{"versionCode":20261061,"versionName":"3.1","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.1.apk","notes":"Shaheen Files v3.1 — تسجيل طلبات HTTP الواردة (sftp_req.log) + عرضها بتشخيص البث"}
+{"versionCode":20261062,"versionName":"3.2","apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheenfiles-updates/main/ShaheenFiles_v3.2.apk","notes":"Shaheen Files v3.2 — دعم HTTP Keep-Alive: السيرفر بيخدم عدة طلبات على نفس الاتصال (إصلاح جذري لفشل تشغيل الفيديوهات)"}
