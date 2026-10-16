@@ -1,1 +1,6 @@
-{"versionCode":20261081,"versionName":"3.21","apkUrl":"https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.21_b0c87a5c.apk","notes":"مصغرات SFTP لكاش دائم + توليدها على السيرفر نفسه 🖼️"}
+{
+  "version": "3.22",
+  "code": 20261082,
+  "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.22_770f531d.apk",
+  "notes": "مصغرات SFTP بسرعة EX: تحميل أول 8MB فقط بدل الفيديو كامل + تنظيف الملفات القديمة"
+}
