@@ -1,6 +1,8 @@
 {
-  "version": "3.29",
-  "code": 20261089,
-  "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.29.apk",
-  "notes": "التحديد بالضغطة الطويلة (بدون زر): نقل/نسخ/حذف/تسمية/المزيد بالشريط السفلي"
+  "versionCode": 20261090,
+  "versionName": "3.30",
+  "version": "3.30",
+  "code": 20261090,
+  "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.30.apk",
+  "notes": "مشغل الفيديو المدمج: عدّاد وقت متبقٍ تحت شريط التقدم + زوم بالأصابع حتى 8x"
 }
